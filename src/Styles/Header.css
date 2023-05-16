@@ -1,0 +1,13 @@
+body{
+    margin-left: 10px;
+    color: white;
+}
+.navbar{
+    background-color:#008060;
+    margin-left: -10px;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    margin-left: 40%;
+}

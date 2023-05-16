@@ -1,0 +1,34 @@
+.addBlog {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 40px;
+}
+a{
+    margin-left:5vh ;  
+}
+.addBlog__details {
+	margin-bottom: 20px;
+}
+
+.addBlog__details > h3 {
+	font-size: 17px;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.addBlog__details > input,
+.addBlog__details > textarea {
+	width: 350px;
+	height: 20px;
+	
+	border: 1px solid #333333;
+	margin-bottom: 10px;
+}
+
+.addBlog__details > textarea {
+	height: 100px;
+}
+.heading{
+	text-align: center;
+}
